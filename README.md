@@ -23,4 +23,4 @@
   ```
 4. Run program praktik.py
 5. Apabila terjadi error *ModuleNotFoundError: No module named 'Crypto'*, biasanya terjadi karena os windows tidak sengaja me-lowercase-kan folder library Crypto. Solusinya, cek library Crypto pada direktori site-packages python,
-biasanya terdapat pada C:\Users\NamaUser\AppData\Roaming\Python\Python38\site-packages. Ubah folder yang bernama "crypto" menjadi uppercase "Crypto", dan jalankan kembali main.py
+biasanya terdapat pada C:\Users\NamaUser\AppData\Roaming\Python\Python38\site-packages. Ubah folder yang bernama "crypto" menjadi uppercase "Crypto", dan jalankan kembali praktik.py
